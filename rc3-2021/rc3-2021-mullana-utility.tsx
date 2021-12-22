@@ -127,6 +127,11 @@
    <frame tileid="189" duration="500"/>
   </animation>
  </tile>
+ <tile id="191">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="210">
   <animation>
    <frame tileid="210" duration="500"/>
