@@ -138,7 +138,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"world:\/\/lobby\/isla-nublar.json#start_Aaaaaaaaaaaa"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -172,7 +172,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitUrl_inactive",
                  "type":"string",
                  "value":"world:\/\/c3w\/main.json"
                 }],
