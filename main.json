@@ -244,6 +244,12 @@
          "imagewidth":2048,
          "margin":0,
          "name":"Schnitzelinsel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ripper"
+                }],
          "spacing":0,
          "tilecount":2304,
          "tileheight":32,
@@ -257,6 +263,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ccc cert"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
